@@ -8,6 +8,8 @@ Desde sempre, sou um grande apaixonado por tecnologia. Minha jornada começou no
 
 Atualmente, estou focado nos estudos de Data Science pela Alura, aprendendo tudo sobre análise de dados, SQL, Python, machine learning e Power BI.
 
+Tenho uma lógica de programação com HTML, CSS E JavaScript, mas meu foco mesmo é a Analise de Dados.
+
 Quando não estou na frente do PC, meu hobby é pegar minha bike e dar um rolê com os amigos.
 
 Se quiser trocar uma ideia ou se conectar, me adiciona lá no LinkedIn:
